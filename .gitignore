@@ -1,0 +1,33 @@
+### --- Archivos temporales de MATLAB ---
+
+*.asv
+*.glnxa64
+*.maci64
+*.mwmw
+*.slxc
+*.mexw64
+*.mexw32
+
+### --- Carpetas de cache y simulacion de MATLAB ---
+
+slprj/
+DerivedData/
+mlr_cache/
+_autosave/
+
+### --- Reportes y perfiles ---
+
+*.html
+*.log
+profile_data/
+
+### --- Archivos del sistema operativo (Windows) ---
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+### --- Configuraciones locales del usuario (Opcional) ---
+
+.matlab/
